@@ -1,0 +1,6 @@
+---
+title: "Earthquakes and Movies"
+format: html
+author: "Paramanyu Gupta"
+---
+
